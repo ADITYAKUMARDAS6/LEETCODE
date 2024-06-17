@@ -1,12 +1,21 @@
 class Solution {
 public:
-    bool judgeSquareSum(int c) {
-        for (long a = 0; a * a <= c; a++) {  // Iterate through all possible values of `a`
-            double b = sqrt(c - a * a);      // Compute `b` as the square root of `c - a^2`
-            if (b == (int)b) {                // Check if `b` is an integer
-                return true;                  // If `b` is an integer, return true
-            }
+    bool judgeSquareSum(int c) 
+    {
+        long long int i=1,j=sqrt(c);
+        if(j*j==c)
+        return true;
+        while(i<=j)
+        {
+           long long sum = (i*i)+(j*j);
+           if(sum==c)
+           return true;
+           else if(sum<c)
+           i++;
+           else
+           j--;
         }
-        return false;                         // If no such pair `(a, b)` is found, return false
+        return false;
+        
     }
 };
