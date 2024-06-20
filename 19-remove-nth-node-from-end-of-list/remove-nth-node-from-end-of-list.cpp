@@ -7,35 +7,34 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
- */
-class Solution {
+ **/
+ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* curr=head;
-        int len=0;
+        ListNode* fastp = head;
+    ListNode* slowp = head;
 
-        //Calculate length of linked list
-        while(curr!=NULL){ 
-            curr=curr->next;
-            len++;
-        }
+    // Move the fastp pointer N nodes ahead
+    for (int i = 0; i < n; i++)
+        fastp = fastp->next;
 
-        curr=head;   //reinitialise head
-        int pos=len-n-1;    //we will delete the node at pos+1, so travel upto position = pos
+    // If fastp becomes NULL,
+    // the Nth node from the end is the head
+    if (fastp == NULL)
+        return head->next;
 
-        if(pos<0){  //if pos<0 ti means head is to be deleted so delete head
-            head=head->next;
-            delete curr;
-            return head;
-        }
+    // Move both pointers until fastp reaches the end
+    while (fastp->next != NULL) {
+        fastp = fastp->next;
+        slowp = slowp->next;
+    }
 
-        while(pos--)curr=curr->next;  //traverse to position = pos
+    // Delete the Nth node from the end
+    ListNode* delNode = slowp->next;
+    slowp->next = slowp->next->next;
+    delete delNode;
+    return head;
 
-        //delete next element from element at pos, and rejoin linked list
-        ListNode* forward=curr->next;
-        curr->next=curr->next->next;
-        delete forward;
 
-        return head;
     }
 };
