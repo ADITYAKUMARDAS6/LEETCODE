@@ -1,15 +1,14 @@
 class Solution {
 public:
-    string convertToTitle(int n) {
-        string s="";
-        while(n>0)
+    string convertToTitle(int columnNumber) {
+        string ans="";
+        while(columnNumber)
         {
-            n--;
-            int a=n%26;
-            s=s+char('A'+a);
-            n/=26;
+            columnNumber--;
+            int digit=columnNumber%26+65;
+             columnNumber=columnNumber/26;
+            ans=(char)(digit)+ans;
         }
-        reverse(s.begin(),s.end());
-        return s;
+        return ans;
     }
 };
