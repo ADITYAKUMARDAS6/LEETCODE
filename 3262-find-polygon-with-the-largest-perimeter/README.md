@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter">3262. Find Polygon With the Largest Perimeter</a></h2><h3>Medium</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter">Find Polygon With the Largest Perimeter</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code> of length <code>n</code>.</p>
 
 <p>A <strong>polygon</strong> is a closed plane figure that has at least <code>3</code> sides. The <strong>longest side</strong> of a polygon is <strong>smaller</strong> than the sum of its other sides.</p>
 
