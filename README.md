@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2645-pass-the-pillow) |
 ## Queue
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
