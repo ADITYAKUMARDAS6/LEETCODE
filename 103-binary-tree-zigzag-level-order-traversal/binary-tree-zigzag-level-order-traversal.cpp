@@ -12,46 +12,76 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-       if(root==NULL)
-        {
-            vector<vector<int>>ans;
-            return ans;
+      
+        // Vector to store the
+        // result of zigzag traversal
+        vector<vector<int>> result;
+        
+        // Check if the root is NULL,
+        // return an empty result
+        if(root == NULL){
+            return result;
         }
-        vector<vector<int>>v;
-        queue<TreeNode*>q;
-        q.push(root);
-        bool a=false;
-        while(!q.empty())
-        {vector<int>v1;
-            int count=q.size();
-            for(int i=0;i<count;i++)
-            {
-                TreeNode* curr=q.front();
-                q.pop();
-                v1.push_back(curr->val);
-                if(curr->left!=NULL)
-                {
-                    q.push(curr->left);
+        
+        // Queue to perform
+        // level order traversal
+        queue<TreeNode*> nodesQueue;
+        nodesQueue.push(root);
+        
+        // Flag to determine the direction of
+        // traversal (left to right or right to left)
+        bool leftToRight = true;
+        
+        // Continue traversal until
+        // the queue is empty
+        while(!nodesQueue.empty()){
+            // Get the number of nodes
+            // at the current level
+            int size = nodesQueue.size();
+            
+            // Vector to store the values
+            // of nodes at the current level
+            vector<int> row(size);
+            
+            // Traverse nodes at 
+            // the current level
+            for(int i = 0; i < size; i++){
+                // Get the front node
+                // from the queue
+                TreeNode* node = nodesQueue.front();
+                nodesQueue.pop();
+                
+                // Determine the index to insert the node's
+                // value based on the traversal direction
+                int index = leftToRight ? i : (size - 1 - i);
+                
+                // Insert the node's value at
+                // the determined index
+                row[index] = node->val;
+                
+                // Enqueue the left and right
+                // children if they exist
+                if(node->left){
+                    nodesQueue.push(node->left);
                 }
-                if(curr->right!=NULL)
-                {
-                    q.push(curr->right);
+                if(node->right){
+                    nodesQueue.push(node->right);
                 }
-            }
-            if(!a)
-            {
-                v.push_back(v1);
-                a=true;
-            }
-            else
-            {
-                reverse(v1.begin(),v1.end());
-                v.push_back(v1);
-                a=false;
             }
             
+            // Switch the traversal
+            // direction for the next level
+            leftToRight = !leftToRight;
             
+            // Add the current level's
+            // values to the result vector
+            result.push_back(row);
         }
-        return v;
+        
+        // Return the final result of
+        // zigzag level order traversal
+        return result;
     }
 };
+
+    
