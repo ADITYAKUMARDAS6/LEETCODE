@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1293-three-consecutive-odds](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
