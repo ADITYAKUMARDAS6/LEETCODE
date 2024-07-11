@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
 |  |
