@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -139,8 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
