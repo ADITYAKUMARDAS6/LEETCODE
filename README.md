@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Recursion
