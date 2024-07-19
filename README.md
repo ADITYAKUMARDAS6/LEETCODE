@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1293-three-consecutive-odds](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1803-average-waiting-time) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
