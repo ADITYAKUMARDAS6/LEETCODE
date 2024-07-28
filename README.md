@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -223,5 +225,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
