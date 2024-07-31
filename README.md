@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Search Tree
