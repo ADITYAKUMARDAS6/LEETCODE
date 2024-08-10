@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
