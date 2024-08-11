@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
