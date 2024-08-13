@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0948-sort-an-array) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
