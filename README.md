@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
+| [1008-binary-tree-cameras](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1008-binary-tree-cameras](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1196-filling-bookcase-shelves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
