@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0948-sort-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
