@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [1008-binary-tree-cameras](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1196-filling-bookcase-shelves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
