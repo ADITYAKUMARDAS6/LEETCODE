@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0726-number-of-atoms](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
