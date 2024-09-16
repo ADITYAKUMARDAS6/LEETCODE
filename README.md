@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0650-2-keys-keyboard) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0664-strange-printer) |
