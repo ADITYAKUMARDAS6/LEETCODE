@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -393,4 +395,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
