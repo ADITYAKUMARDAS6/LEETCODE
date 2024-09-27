@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0906-walking-robot-simulation) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -399,12 +402,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
