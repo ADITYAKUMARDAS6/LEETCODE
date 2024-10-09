@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0539-minimum-time-difference](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0539-minimum-time-difference) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0650-2-keys-keyboard) |
@@ -444,5 +447,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1923-sentence-similarity-iii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
