@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1923-sentence-similarity-iii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1923-sentence-similarity-iii) |
+| [3195-separate-black-and-white-balls](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
 | ------- |
