@@ -9,35 +9,33 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
-public:
-    int minCameraCoverHelper(TreeNode* root, int &cam){
-        if(root==NULL) return 1;
+private:
+    int cam = 0;
+    
+    int dfs(TreeNode* root) {
+        if (!root) return 1;
         
-        int left = minCameraCoverHelper(root->left,cam);
-        int right = minCameraCoverHelper(root->right,cam);
-
-        if(!(left && right)){
+        int leftCoverage = dfs(root->left);
+        int rightCoverage = dfs(root->right);
+        
+        if (leftCoverage == 0 || rightCoverage == 0) {
             cam++;
-            return 2;
+            return 2; // Camera placed here
+        } 
+        else if (leftCoverage == 2 || rightCoverage == 2) {
+            return 1; // Covered by child's camera
+        } 
+        else {
+            return 0; // Needs to be covered by parent
         }
-        return max(left,right) -1;
     }
+
+public:
     int minCameraCover(TreeNode* root) {
-        if(root==NULL) return 0;
-        int cam = 0;
-        if(!minCameraCoverHelper(root,cam)) cam++;
+        if (!root) return 0;
+        int result = dfs(root);
+        if (result == 0) cam++; // If the root is not covered, place a camera
         return cam;
     }
 };
