@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1008-binary-tree-cameras) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
