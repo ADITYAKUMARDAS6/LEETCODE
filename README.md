@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2755-extra-characters-in-a-string](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
