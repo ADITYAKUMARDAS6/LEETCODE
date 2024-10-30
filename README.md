@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1923-sentence-similarity-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search Tree
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
