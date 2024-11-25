@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0787-sliding-puzzle](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1484-linked-list-in-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0890-lemonade-change) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
