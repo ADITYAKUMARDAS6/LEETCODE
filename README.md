@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3427-special-array-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3427-special-array-ii](https://github.com/ADITYAKUMARDAS6/LEETCODE/tree/master/3427-special-array-ii) |
 ## Game Theory
 |  |
 | ------- |
